@@ -1,0 +1,8 @@
+/* style specific to the image and text block -> backend*/
+
+/* ==== images + text ===== */
+.images-text{
+    background-color: black;
+    color: white;
+    padding: 20px;
+ }

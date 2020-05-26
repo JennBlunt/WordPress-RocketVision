@@ -1,0 +1,363 @@
+[25-Apr-2020 17:31:52 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/update.php on line 162
+[25-Apr-2020 17:31:52 UTC] PHP Stack trace:
+[25-Apr-2020 17:31:52 UTC] PHP   1. {main}() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-cron.php:0
+[25-Apr-2020 17:31:52 UTC] PHP   2. do_action_ref_array() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-cron.php:138
+[25-Apr-2020 17:31:52 UTC] PHP   3. WP_Hook->do_action() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/plugin.php:544
+[25-Apr-2020 17:31:52 UTC] PHP   4. WP_Hook->apply_filters() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:311
+[25-Apr-2020 17:31:52 UTC] PHP   5. wp_version_check() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:287
+[25-Apr-2020 17:31:52 UTC] PHP   6. trigger_error() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/update.php:162
+[25-Apr-2020 23:15:20 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/update.php on line 388
+[25-Apr-2020 23:15:20 UTC] PHP Stack trace:
+[25-Apr-2020 23:15:20 UTC] PHP   1. {main}() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-cron.php:0
+[25-Apr-2020 23:15:21 UTC] PHP   2. do_action_ref_array() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-cron.php:138
+[25-Apr-2020 23:15:21 UTC] PHP   3. WP_Hook->do_action() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/plugin.php:544
+[25-Apr-2020 23:15:21 UTC] PHP   4. WP_Hook->apply_filters() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:311
+[25-Apr-2020 23:15:21 UTC] PHP   5. wp_update_plugins() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:287
+[25-Apr-2020 23:15:21 UTC] PHP   6. trigger_error() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/update.php:388
+[25-Apr-2020 23:15:23 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/update.php on line 578
+[25-Apr-2020 23:15:23 UTC] PHP Stack trace:
+[25-Apr-2020 23:15:23 UTC] PHP   1. {main}() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-cron.php:0
+[25-Apr-2020 23:15:23 UTC] PHP   2. do_action_ref_array() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-cron.php:138
+[25-Apr-2020 23:15:23 UTC] PHP   3. WP_Hook->do_action() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/plugin.php:544
+[25-Apr-2020 23:15:23 UTC] PHP   4. WP_Hook->apply_filters() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:311
+[25-Apr-2020 23:15:23 UTC] PHP   5. wp_update_themes() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:287
+[25-Apr-2020 23:15:24 UTC] PHP   6. trigger_error() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/update.php:578
+[27-Apr-2020 20:14:57 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/update.php on line 162
+[27-Apr-2020 20:14:57 UTC] PHP Stack trace:
+[27-Apr-2020 20:14:57 UTC] PHP   1. {main}() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-cron.php:0
+[27-Apr-2020 20:14:57 UTC] PHP   2. do_action_ref_array() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-cron.php:138
+[27-Apr-2020 20:14:57 UTC] PHP   3. WP_Hook->do_action() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/plugin.php:544
+[27-Apr-2020 20:14:57 UTC] PHP   4. WP_Hook->apply_filters() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:311
+[27-Apr-2020 20:14:57 UTC] PHP   5. wp_version_check() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:287
+[27-Apr-2020 20:14:57 UTC] PHP   6. trigger_error() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/update.php:162
+[27-Apr-2020 20:14:57 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/update.php on line 388
+[27-Apr-2020 20:14:57 UTC] PHP Stack trace:
+[27-Apr-2020 20:14:57 UTC] PHP   1. {main}() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-cron.php:0
+[27-Apr-2020 20:14:57 UTC] PHP   2. do_action_ref_array() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-cron.php:138
+[27-Apr-2020 20:14:57 UTC] PHP   3. WP_Hook->do_action() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/plugin.php:544
+[27-Apr-2020 20:14:57 UTC] PHP   4. WP_Hook->apply_filters() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:311
+[27-Apr-2020 20:14:57 UTC] PHP   5. wp_update_plugins() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:287
+[27-Apr-2020 20:14:57 UTC] PHP   6. trigger_error() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/update.php:388
+[27-Apr-2020 20:14:57 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/update.php on line 578
+[27-Apr-2020 20:14:57 UTC] PHP Stack trace:
+[27-Apr-2020 20:14:57 UTC] PHP   1. {main}() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-cron.php:0
+[27-Apr-2020 20:14:57 UTC] PHP   2. do_action_ref_array() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-cron.php:138
+[27-Apr-2020 20:14:57 UTC] PHP   3. WP_Hook->do_action() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/plugin.php:544
+[27-Apr-2020 20:14:57 UTC] PHP   4. WP_Hook->apply_filters() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:311
+[27-Apr-2020 20:14:57 UTC] PHP   5. wp_update_themes() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:287
+[27-Apr-2020 20:14:57 UTC] PHP   6. trigger_error() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/update.php:578
+[28-Apr-2020 01:20:13 UTC] PHP Warning:  Use of undefined constant the_time - assumed 'the_time' (this will throw an Error in a future version of PHP) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php on line 26
+[28-Apr-2020 01:20:13 UTC] PHP Stack trace:
+[28-Apr-2020 01:20:13 UTC] PHP   1. {main}() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php:0
+[28-Apr-2020 01:20:13 UTC] PHP   2. require() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php:17
+[28-Apr-2020 01:20:13 UTC] PHP   3. require_once() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php:19
+[28-Apr-2020 01:20:13 UTC] PHP   4. include() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php:106
+[28-Apr-2020 01:20:13 UTC] PHP   5. get_template_part() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/index.php:7
+[28-Apr-2020 01:20:13 UTC] PHP   6. locate_template() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php:168
+[28-Apr-2020 01:20:13 UTC] PHP   7. load_template() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php:672
+[28-Apr-2020 01:20:13 UTC] PHP   8. require() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php:725
+[28-Apr-2020 01:20:13 UTC] PHP Warning:  Use of undefined constant the_time - assumed 'the_time' (this will throw an Error in a future version of PHP) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php on line 26
+[28-Apr-2020 01:20:13 UTC] PHP Stack trace:
+[28-Apr-2020 01:20:13 UTC] PHP   1. {main}() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php:0
+[28-Apr-2020 01:20:13 UTC] PHP   2. require() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php:17
+[28-Apr-2020 01:20:13 UTC] PHP   3. require_once() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php:19
+[28-Apr-2020 01:20:13 UTC] PHP   4. include() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php:106
+[28-Apr-2020 01:20:13 UTC] PHP   5. get_template_part() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/index.php:7
+[28-Apr-2020 01:20:13 UTC] PHP   6. locate_template() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php:168
+[28-Apr-2020 01:20:13 UTC] PHP   7. load_template() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php:672
+[28-Apr-2020 01:20:13 UTC] PHP   8. require() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php:725
+[28-Apr-2020 01:20:13 UTC] PHP Warning:  Use of undefined constant the_time - assumed 'the_time' (this will throw an Error in a future version of PHP) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php on line 26
+[28-Apr-2020 01:20:13 UTC] PHP Stack trace:
+[28-Apr-2020 01:20:13 UTC] PHP   1. {main}() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php:0
+[28-Apr-2020 01:20:13 UTC] PHP   2. require() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php:17
+[28-Apr-2020 01:20:13 UTC] PHP   3. require_once() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php:19
+[28-Apr-2020 01:20:13 UTC] PHP   4. include() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php:106
+[28-Apr-2020 01:20:13 UTC] PHP   5. get_template_part() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/index.php:7
+[28-Apr-2020 01:20:13 UTC] PHP   6. locate_template() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php:168
+[28-Apr-2020 01:20:13 UTC] PHP   7. load_template() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php:672
+[28-Apr-2020 01:20:13 UTC] PHP   8. require() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php:725
+[28-Apr-2020 01:20:13 UTC] PHP Warning:  Use of undefined constant the_time - assumed 'the_time' (this will throw an Error in a future version of PHP) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php on line 26
+[28-Apr-2020 01:20:13 UTC] PHP Stack trace:
+[28-Apr-2020 01:20:13 UTC] PHP   1. {main}() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php:0
+[28-Apr-2020 01:20:13 UTC] PHP   2. require() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php:17
+[28-Apr-2020 01:20:13 UTC] PHP   3. require_once() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php:19
+[28-Apr-2020 01:20:13 UTC] PHP   4. include() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php:106
+[28-Apr-2020 01:20:13 UTC] PHP   5. get_template_part() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/index.php:7
+[28-Apr-2020 01:20:13 UTC] PHP   6. locate_template() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php:168
+[28-Apr-2020 01:20:13 UTC] PHP   7. load_template() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php:672
+[28-Apr-2020 01:20:13 UTC] PHP   8. require() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php:725
+[28-Apr-2020 01:20:13 UTC] PHP Warning:  Use of undefined constant the_time - assumed 'the_time' (this will throw an Error in a future version of PHP) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php on line 26
+[28-Apr-2020 01:20:13 UTC] PHP Stack trace:
+[28-Apr-2020 01:20:13 UTC] PHP   1. {main}() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php:0
+[28-Apr-2020 01:20:13 UTC] PHP   2. require() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php:17
+[28-Apr-2020 01:20:13 UTC] PHP   3. require_once() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php:19
+[28-Apr-2020 01:20:13 UTC] PHP   4. include() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php:106
+[28-Apr-2020 01:20:13 UTC] PHP   5. get_template_part() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/index.php:7
+[28-Apr-2020 01:20:13 UTC] PHP   6. locate_template() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php:168
+[28-Apr-2020 01:20:13 UTC] PHP   7. load_template() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php:672
+[28-Apr-2020 01:20:13 UTC] PHP   8. require() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php:725
+[28-Apr-2020 01:20:13 UTC] PHP Warning:  Use of undefined constant the_time - assumed 'the_time' (this will throw an Error in a future version of PHP) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php on line 26
+[28-Apr-2020 01:20:13 UTC] PHP Stack trace:
+[28-Apr-2020 01:20:13 UTC] PHP   1. {main}() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php:0
+[28-Apr-2020 01:20:13 UTC] PHP   2. require() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php:17
+[28-Apr-2020 01:20:13 UTC] PHP   3. require_once() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php:19
+[28-Apr-2020 01:20:13 UTC] PHP   4. include() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php:106
+[28-Apr-2020 01:20:13 UTC] PHP   5. get_template_part() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/index.php:7
+[28-Apr-2020 01:20:13 UTC] PHP   6. locate_template() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php:168
+[28-Apr-2020 01:20:13 UTC] PHP   7. load_template() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php:672
+[28-Apr-2020 01:20:13 UTC] PHP   8. require() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php:725
+[28-Apr-2020 01:20:14 UTC] PHP Warning:  Use of undefined constant the_time - assumed 'the_time' (this will throw an Error in a future version of PHP) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php on line 26
+[28-Apr-2020 01:20:14 UTC] PHP Stack trace:
+[28-Apr-2020 01:20:14 UTC] PHP   1. {main}() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php:0
+[28-Apr-2020 01:20:14 UTC] PHP   2. require() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php:17
+[28-Apr-2020 01:20:14 UTC] PHP   3. require_once() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php:19
+[28-Apr-2020 01:20:14 UTC] PHP   4. include() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php:106
+[28-Apr-2020 01:20:14 UTC] PHP   5. get_template_part() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/index.php:7
+[28-Apr-2020 01:20:14 UTC] PHP   6. locate_template() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php:168
+[28-Apr-2020 01:20:14 UTC] PHP   7. load_template() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php:672
+[28-Apr-2020 01:20:14 UTC] PHP   8. require() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php:725
+[28-Apr-2020 01:28:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_categories() in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php:35
+Stack trace:
+#0 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(725): require()
+#1 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(672): load_template('/Users/jennblun...', false)
+#2 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/index.php(7): get_template_part('loop', 'index')
+#4 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php(106): include('/Users/jennblun...')
+#5 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php(19): r in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php on line 35
+[28-Apr-2020 01:28:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_categories() in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php:35
+Stack trace:
+#0 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(725): require()
+#1 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(672): load_template('/Users/jennblun...', false)
+#2 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/index.php(7): get_template_part('loop', 'index')
+#4 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php(106): include('/Users/jennblun...')
+#5 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php(19): r in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php on line 35
+[28-Apr-2020 01:28:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_categories() in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php:35
+Stack trace:
+#0 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(725): require()
+#1 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(672): load_template('/Users/jennblun...', false)
+#2 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/index.php(7): get_template_part('loop', 'index')
+#4 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php(106): include('/Users/jennblun...')
+#5 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php(19): r in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php on line 35
+[28-Apr-2020 01:29:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_categories() in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php:35
+Stack trace:
+#0 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(725): require()
+#1 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(672): load_template('/Users/jennblun...', false)
+#2 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/index.php(7): get_template_part('loop', 'index')
+#4 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php(106): include('/Users/jennblun...')
+#5 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php(19): r in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php on line 35
+[28-Apr-2020 01:34:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_categories() in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php:35
+Stack trace:
+#0 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(725): require()
+#1 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(672): load_template('/Users/jennblun...', false)
+#2 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/index.php(7): get_template_part('loop', 'index')
+#4 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php(106): include('/Users/jennblun...')
+#5 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php(19): re in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php on line 35
+[28-Apr-2020 02:47:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_categories() in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php:36
+Stack trace:
+#0 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(725): require()
+#1 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(672): load_template('/Users/jennblun...', false)
+#2 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/index.php(7): get_template_part('loop', 'index')
+#4 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php(106): include('/Users/jennblun...')
+#5 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php(19):  in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php on line 36
+[28-Apr-2020 02:50:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_the_terms(), 0 passed in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php on line 36 and exactly 2 expected in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/category-template.php:1236
+Stack trace:
+#0 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php(36): get_the_terms()
+#1 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(725): require('/Users/jennblun...')
+#2 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(672): load_template('/Users/jennblun...', false)
+#3 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#4 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/w in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/category-template.php on line 1236
+[28-Apr-2020 02:51:06 UTC] PHP Warning:  Use of undefined constant the_ID - assumed 'the_ID' (this will throw an Error in a future version of PHP) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php on line 36
+[28-Apr-2020 02:51:06 UTC] PHP Stack trace:
+[28-Apr-2020 02:51:06 UTC] PHP   1. {main}() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php:0
+[28-Apr-2020 02:51:06 UTC] PHP   2. require() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php:17
+[28-Apr-2020 02:51:06 UTC] PHP   3. require_once() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php:19
+[28-Apr-2020 02:51:06 UTC] PHP   4. include() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php:106
+[28-Apr-2020 02:51:06 UTC] PHP   5. get_template_part() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/index.php:7
+[28-Apr-2020 02:51:06 UTC] PHP   6. locate_template() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php:168
+[28-Apr-2020 02:51:06 UTC] PHP   7. load_template() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php:672
+[28-Apr-2020 02:51:06 UTC] PHP   8. require() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php:725
+[28-Apr-2020 02:51:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_the_terms(), 1 passed in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php on line 36 and exactly 2 expected in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/category-template.php:1236
+Stack trace:
+#0 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php(36): get_the_terms('the_ID')
+#1 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(725): require('/Users/jennblun...')
+#2 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(672): load_template('/Users/jennblun...', false)
+#3 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#4 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/ in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/category-template.php on line 1236
+[29-Apr-2020 23:01:15 UTC] PHP Parse error:  syntax error, unexpected '=', expecting identifier (T_STRING) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/loop.php on line 31
+[30-Apr-2020 00:41:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/page-home.php on line 10
+[30-Apr-2020 01:02:08 UTC] PHP Warning:  imagepng(/Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/uploads/2020/04/blog7-120x90.png): failed to open stream: No space left on device in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-image-editor.php on line 489
+[30-Apr-2020 01:02:08 UTC] PHP Stack trace:
+[30-Apr-2020 01:02:08 UTC] PHP   1. {main}() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php:0
+[30-Apr-2020 01:02:08 UTC] PHP   2. require() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php:17
+[30-Apr-2020 01:02:08 UTC] PHP   3. wp() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php:16
+[30-Apr-2020 01:02:08 UTC] PHP   4. WP->main() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/functions.php:1274
+[30-Apr-2020 01:02:08 UTC] PHP   5. WP->parse_request() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp.php:735
+[30-Apr-2020 01:02:08 UTC] PHP   6. do_action_ref_array() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp.php:388
+[30-Apr-2020 01:02:08 UTC] PHP   7. WP_Hook->do_action() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/plugin.php:544
+[30-Apr-2020 01:02:08 UTC] PHP   8. WP_Hook->apply_filters() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:311
+[30-Apr-2020 01:02:08 UTC] PHP  10. WP_REST_Server->serve_request() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/rest-api.php:306
+[30-Apr-2020 01:02:08 UTC] PHP  11. WP_REST_Server->dispatch() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/rest-api/class-wp-rest-server.php:342
+[30-Apr-2020 01:02:08 UTC] PHP  12. RegenerateThumbnails_REST_Controller->regenerate_item() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/rest-api/class-wp-rest-server.php:1015
+[30-Apr-2020 01:02:08 UTC] PHP  13. RegenerateThumbnails_Regenerator->regenerate() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/plugins/regenerate-thumbnails/includes/class-regeneratethumbnails-rest-controller.php:184
+[30-Apr-2020 01:02:09 UTC] PHP  14. wp_generate_attachment_metadata() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/plugins/regenerate-thumbnails/includes/class-regeneratethumbnails-regenerator.php:193
+[30-Apr-2020 01:02:09 UTC] PHP  15. wp_create_image_subsizes() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-admin/includes/image.php:484
+[30-Apr-2020 01:02:09 UTC] PHP  16. _wp_make_subsizes() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-admin/includes/image.php:366
+[30-Apr-2020 01:02:09 UTC] PHP  17. WP_Image_Editor_GD->make_subsize() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-admin/includes/image.php:443
+[30-Apr-2020 01:02:09 UTC] PHP  18. WP_Image_Editor_GD->_save() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-image-editor-gd.php:282
+[30-Apr-2020 01:02:09 UTC] PHP  19. WP_Image_Editor_GD->make_image() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-image-editor-gd.php:440
+[30-Apr-2020 01:02:09 UTC] PHP  20. WP_Image_Editor_GD->make_image() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-image-editor-gd.php:511
+[30-Apr-2020 01:02:09 UTC] PHP  21. imagepng() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-image-editor.php:489
+[30-Apr-2020 01:30:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/functions.php on line 77
+[04-May-2020 18:53:28 UTC] PHP Parse error:  syntax error, unexpected '383' (T_LNUMBER), expecting ')' in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/functions.php on line 17
+[04-May-2020 22:57:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_feild() in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/page-home.php:17
+Stack trace:
+#0 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php(19): require_once('/Users/jennblun...')
+#2 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php(17): require('/Users/jennblun...')
+#3 {main}
+  thrown in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/page-home.php on line 17
+[05-May-2020 00:13:53 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/page-home.php on line 40
+[05-May-2020 00:14:02 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/page-home.php on line 40
+[05-May-2020 00:30:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_feild() in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/footer.php:5
+Stack trace:
+#0 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(723): require_once()
+#1 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(672): load_template('/Users/jennblun...', true)
+#2 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/page-home.php(47): get_footer()
+#4 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php(106): include('/Users/jennblun...')
+#5 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php(19): require_once('/Users/jennblun. in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/footer.php on line 5
+[05-May-2020 00:30:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_feild() in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/footer.php:5
+Stack trace:
+#0 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(723): require_once()
+#1 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(672): load_template('/Users/jennblun...', true)
+#2 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/page-home.php(47): get_footer()
+#4 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php(106): include('/Users/jennblun...')
+#5 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php(19): require_once('/Users/jennblun. in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/footer.php on line 5
+[05-May-2020 00:30:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_feild() in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/footer.php:5
+Stack trace:
+#0 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(723): require_once()
+#1 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(672): load_template('/Users/jennblun...', true)
+#2 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/page-home.php(47): get_footer()
+#4 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php(106): include('/Users/jennblun...')
+#5 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php(19): require_once('/Users/jennblun. in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/footer.php on line 5
+[05-May-2020 00:31:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_feild() in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/footer.php:5
+Stack trace:
+#0 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(723): require_once()
+#1 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(672): load_template('/Users/jennblun...', true)
+#2 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/page-home.php(47): get_footer()
+#4 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php(106): include('/Users/jennblun...')
+#5 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php(19): require_once('/Users/jennblun. in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/footer.php on line 5
+[05-May-2020 00:32:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_feild() in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/footer.php:5
+Stack trace:
+#0 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(723): require_once()
+#1 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(672): load_template('/Users/jennblun...', true)
+#2 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/page-home.php(47): get_footer()
+#4 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php(106): include('/Users/jennblun...')
+#5 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php(19): require_once('/Users/jennblun. in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/footer.php on line 5
+[05-May-2020 00:33:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_feild() in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/footer.php:5
+Stack trace:
+#0 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(723): require_once()
+#1 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template.php(672): load_template('/Users/jennblun...', true)
+#2 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/page-home.php(47): get_footer()
+#4 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php(106): include('/Users/jennblun...')
+#5 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php(19): require_once('/Users/jennblun. in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/footer.php on line 5
+[05-May-2020 01:23:08 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/images-text.php on line 4
+[05-May-2020 01:23:27 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/images-text.php on line 4
+[05-May-2020 01:24:05 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/images-text.php on line 4
+[05-May-2020 01:25:00 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/images-text.php on line 4
+[05-May-2020 01:25:00 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/images-text.php on line 4
+[05-May-2020 01:25:04 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/images-text.php on line 4
+[05-May-2020 01:25:05 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/images-text.php on line 4
+[05-May-2020 01:25:07 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/images-text.php on line 4
+[05-May-2020 01:26:06 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/images-text.php on line 4
+[05-May-2020 01:26:06 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/images-text.php on line 4
+[05-May-2020 01:27:46 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/images-text.php on line 4
+[07-May-2020 00:09:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_feild() in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/single-team_members.php:4
+Stack trace:
+#0 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-blog-header.php(19): require_once('/Users/jennblun...')
+#2 /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/index.php(17): require('/Users/jennblun...')
+#3 {main}
+  thrown in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/single-team_members.php on line 4
+[07-May-2020 00:47:55 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/team-member.php on line 17
+[07-May-2020 00:56:20 UTC] PHP Parse error:  syntax error, unexpected '$args' (T_VARIABLE) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/team-member.php on line 4
+[07-May-2020 00:57:03 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/team-member.php on line 9
+[07-May-2020 00:58:01 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/team-member.php on line 9
+[07-May-2020 00:59:07 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/team-member.php on line 9
+[07-May-2020 00:59:17 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/team-member.php on line 9
+[11-May-2020 01:58:34 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/update.php on line 162
+[11-May-2020 01:58:34 UTC] PHP Stack trace:
+[11-May-2020 01:58:34 UTC] PHP   1. {main}() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-cron.php:0
+[11-May-2020 01:58:34 UTC] PHP   2. do_action_ref_array() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-cron.php:138
+[11-May-2020 01:58:34 UTC] PHP   3. WP_Hook->do_action() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/plugin.php:544
+[11-May-2020 01:58:34 UTC] PHP   4. WP_Hook->apply_filters() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:311
+[11-May-2020 01:58:34 UTC] PHP   5. wp_version_check() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:287
+[11-May-2020 01:58:34 UTC] PHP   6. trigger_error() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/update.php:162
+[11-May-2020 01:58:34 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/update.php on line 388
+[11-May-2020 01:58:34 UTC] PHP Stack trace:
+[11-May-2020 01:58:34 UTC] PHP   1. {main}() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-cron.php:0
+[11-May-2020 01:58:34 UTC] PHP   2. do_action_ref_array() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-cron.php:138
+[11-May-2020 01:58:34 UTC] PHP   3. WP_Hook->do_action() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/plugin.php:544
+[11-May-2020 01:58:34 UTC] PHP   4. WP_Hook->apply_filters() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:311
+[11-May-2020 01:58:34 UTC] PHP   5. wp_update_plugins() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:287
+[11-May-2020 01:58:34 UTC] PHP   6. trigger_error() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/update.php:388
+[11-May-2020 01:58:34 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/update.php on line 578
+[11-May-2020 01:58:34 UTC] PHP Stack trace:
+[11-May-2020 01:58:34 UTC] PHP   1. {main}() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-cron.php:0
+[11-May-2020 01:58:34 UTC] PHP   2. do_action_ref_array() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-cron.php:138
+[11-May-2020 01:58:34 UTC] PHP   3. WP_Hook->do_action() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/plugin.php:544
+[11-May-2020 01:58:34 UTC] PHP   4. WP_Hook->apply_filters() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:311
+[11-May-2020 01:58:34 UTC] PHP   5. wp_update_themes() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:287
+[11-May-2020 01:58:34 UTC] PHP   6. trigger_error() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/update.php:578
+[12-May-2020 00:03:47 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/team-member.php on line 85
+[12-May-2020 00:15:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-content/themes/starter-theme/page-home.php on line 62
+[25-May-2020 01:10:09 UTC] PHP Warning:  Error while sending QUERY packet. PID=51470 in /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/wp-db.php on line 2024
+[25-May-2020 01:10:09 UTC] PHP Stack trace:
+[25-May-2020 01:10:09 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[25-May-2020 01:10:09 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[25-May-2020 01:10:09 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[25-May-2020 01:10:09 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[25-May-2020 01:10:09 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[25-May-2020 01:10:09 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[25-May-2020 01:10:09 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[25-May-2020 01:10:09 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[25-May-2020 01:10:09 UTC] PHP   9. do_action() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-settings.php:540
+[25-May-2020 01:10:09 UTC] PHP  10. WP_Hook->do_action() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/plugin.php:478
+[25-May-2020 01:10:09 UTC] PHP  11. WP_Hook->apply_filters() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:311
+[25-May-2020 01:10:09 UTC] PHP  12. wp_widgets_init() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:287
+[25-May-2020 01:10:09 UTC] PHP  13. do_action() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/widgets.php:1765
+[25-May-2020 01:10:09 UTC] PHP  14. WP_Hook->do_action() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/plugin.php:478
+[25-May-2020 01:10:09 UTC] PHP  15. WP_Hook->apply_filters() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:311
+[25-May-2020 01:10:09 UTC] PHP  16. WP_Widget_Factory->_register_widgets() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:287
+[25-May-2020 01:10:09 UTC] PHP  17. WP_Widget_Text->_register() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-widget-factory.php:102
+[25-May-2020 01:10:09 UTC] PHP  18. WP_Widget_Text->_register_one() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-widget.php:252
+[25-May-2020 01:10:09 UTC] PHP  19. wp_add_inline_script() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/widgets/class-wp-widget-text.php:58
+[25-May-2020 01:10:09 UTC] PHP  20. wp_scripts() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/functions.wp-scripts.php:128
+[25-May-2020 01:10:09 UTC] PHP  21. WP_Scripts->__construct() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/functions.wp-scripts.php:23
+[25-May-2020 01:10:09 UTC] PHP  22. WP_Scripts->init() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class.wp-scripts.php:142
+[25-May-2020 01:10:09 UTC] PHP  23. do_action_ref_array() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class.wp-scripts.php:167
+[25-May-2020 01:10:09 UTC] PHP  24. WP_Hook->do_action() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/plugin.php:544
+[25-May-2020 01:10:09 UTC] PHP  25. WP_Hook->apply_filters() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:311
+[25-May-2020 01:10:09 UTC] PHP  26. wp_default_packages() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:287
+[25-May-2020 01:10:09 UTC] PHP  27. wp_register_tinymce_scripts() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/script-loader.php:526
+[25-May-2020 01:10:09 UTC] PHP  28. includes_url() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/script-loader.php:63
+[25-May-2020 01:10:09 UTC] PHP  29. site_url() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/link-template.php:3333
+[25-May-2020 01:10:09 UTC] PHP  30. get_site_url() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/link-template.php:3228
+[25-May-2020 01:10:09 UTC] PHP  31. apply_filters() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/link-template.php:3274
+[25-May-2020 01:10:09 UTC] PHP  32. WP_Hook->apply_filters() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/plugin.php:206
+[25-May-2020 01:10:09 UTC] PHP  33. WP_CLI\Runner::WP_CLI\{closure:phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1545-1557}() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/class-wp-hook.php:287
+[25-May-2020 01:10:09 UTC] PHP  34. get_option() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1547
+[25-May-2020 01:10:09 UTC] PHP  35. wpdb->get_row() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/option.php:120
+[25-May-2020 01:10:09 UTC] PHP  36. wpdb->query() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/wp-db.php:2563
+[25-May-2020 01:10:09 UTC] PHP  37. wpdb->_do_query() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/wp-db.php:1912
+[25-May-2020 01:10:09 UTC] PHP  38. mysqli_query() /Users/jennblunt/Desktop/juno/wordpress/projects/rocket-agency/app/public/wp-includes/wp-db.php:2024
